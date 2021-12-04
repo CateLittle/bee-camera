@@ -72,6 +72,7 @@ sudo sh -c 'echo "yaml https://raw.githubusercontent.com/basler/pylon-ros-camera
 ### open another new terminal to open viewer
   `rqt`
 
-### exit ROS when finished using <Ctl c>
+### exit ROS when finished using 
+  ### <Ctl c>
 
 
