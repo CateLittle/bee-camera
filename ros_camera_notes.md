@@ -1,4 +1,4 @@
-###install ROS noetic
+### install ROS noetic
 #see https://linoxide.com/how-to-install-ros-noetic-on-ubuntu-20-04/ and https://idroot.us/install-ros-noetic-ubuntu-20-04/
 #update systems first
   `sudo apt update`
