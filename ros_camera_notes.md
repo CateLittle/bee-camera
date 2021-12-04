@@ -63,7 +63,7 @@ sudo sh -c 'echo "yaml https://raw.githubusercontent.com/basler/pylon-ros-camera
 
 ### Using ROS for imaging and recording with Baylor camera
 ### open new terminal & start ROS
-  `roscore'
+  `roscore`
 
 ### open 2nd terminal (or new tab in terminal with <Shift Ctl t>)
 ### plug in camera using USB
