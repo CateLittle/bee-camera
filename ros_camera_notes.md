@@ -60,8 +60,9 @@ sudo sh -c 'echo "yaml https://raw.githubusercontent.com/basler/pylon-ros-camera
 ### home -- catkin_ws -- src -- pylon-ros-camera -- pylon_camera -- config -- default.yaml
 ### to change from any default parameters, uncomment line for that parameter and modify details (e.g, #frame_rate: 10 --> frame_rate: 50)
 ### changes will not show in viewer until you relaunch ROS
-###
-  
+
+ 
+### .
 ### Using ROS for imaging and recording with Baylor camera
 ### open new terminal & start ROS
   `roscore`
