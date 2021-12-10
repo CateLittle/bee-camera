@@ -1,3 +1,6 @@
+### refer to more complete notes in ros_camera_notes.md
+
+
 ###install ROS noetic
 #see https://linoxide.com/how-to-install-ros-noetic-on-ubuntu-20-04/ and https://idroot.us/install-ros-noetic-ubuntu-20-04/
 #update systems first
