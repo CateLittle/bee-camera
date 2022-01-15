@@ -37,6 +37,16 @@
   make
 ```
 
+ ### if catkin_ws is not found (see https://classes.cs.uchicago.edu/archive/2021/spring/20600-1/computer_setup.html for more info)
+``` 
+  source /opt/ros/noetic/setup.bash
+ mkdir -p ~/catkin_ws/src
+ cd ~/catkin_ws/
+ catkin_make 
+```
+### 1) close your current terminal window, 2) open a new terminal window, and 3) enter the command 'roscd'. If you've set up your catkin workspace correctly, you should now be in the directory ~/catkin_ws/devel.
+  
+  
 ### clone repository 
   `cd ~/catkin_ws/src && git clone https://github.com/basler/pylon-ros-camera`
 ### optional - clone messages 
