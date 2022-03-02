@@ -34,9 +34,15 @@
   mkdir build
   cd build
   cmake ../src -DCMAKE_INSTALL_PREFIX=../install -DCATKIN_DEVEL_PREFIX=../devel
-  make
-```
+  
 
+### if error message 'problem with cmake_cxx_compiler'
+  sudo apt-get install build-essential
+  suod ap-get install g++
+ ### then retry above cmake code
+  
+  
+```
 ### clone repository 
   `cd ~/catkin_ws/src && git clone https://github.com/basler/pylon-ros-camera`
 ### optional - clone messages 
